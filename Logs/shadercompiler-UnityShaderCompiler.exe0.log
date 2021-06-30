@@ -1,0 +1,6 @@
+Base path: 'D:/Program Files (x86)/2020.2.7f1c1/2020.2.7f1c1/Editor/Data', plugins path 'D:/Program Files (x86)/2020.2.7f1c1/2020.2.7f1c1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: shutdown
+
+Quitting shader compiler process
